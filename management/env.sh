@@ -1,3 +1,3 @@
-export MGMT_PROJECT=<the project where you deploy your management cluster>
-export MGMT_NAME=<name of your management cluster>
-export LOCATION=<location of your management cluster>
+export MGMT_PROJECT=prod-marketvision
+export MGMT_NAME=mgmt-kube17
+export LOCATION=us-central1
